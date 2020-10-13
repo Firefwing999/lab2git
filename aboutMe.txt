@@ -1,1 +1,4 @@
 Hello, my name is Jasper. I am a 4th year Computer Engineering student with a passion in photography.
+
+This quarter i've been given the opportunity to take a photography class 
+as well as a masters class. the other classes i'm taking are software engineering and a information security class.
